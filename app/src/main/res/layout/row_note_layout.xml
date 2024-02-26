@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:id="@+id/cellLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- TextView (descEditText) -->
+        <TextView
+            android:id="@+id/cellDesc"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:ellipsize="end"
+            android:fontFamily="@font/roboto"
+            android:maxLines="7"
+            android:padding="15dp"
+            android:text="Description"
+            android:textColor="@color/darkGray"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

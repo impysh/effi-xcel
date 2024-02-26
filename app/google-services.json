@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621977029848",
+    "project_id": "effi-xcel",
+    "storage_bucket": "effi-xcel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621977029848:android:8730e9d646b78212545bad",
+        "android_client_info": {
+          "package_name": "com.sp.effixcel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621977029848-unit7nieu548gu9e98qn7m6vcil26eke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEtZ5X_kWh0OCNKBpmc_i3jO67dxE9l0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621977029848-unit7nieu548gu9e98qn7m6vcil26eke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
